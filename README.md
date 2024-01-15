@@ -1,5 +1,5 @@
-<div align="center">  <h2>  Hello ako po si Kristel  </h2> <br>
- <h2>  nandito po ang sagot sa katotohanan  </h2> <br>
+<div align="center">  <h2>  Hello ako po si Kristel  </h2>
+ <h2>  nandito po ang sagot sa katotohanan  </h2> 
  </div>
 <!--
 **kristelkristelrsyoeykrite/kristelkristelrsyoeykrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
