@@ -1,5 +1,5 @@
 ### Hello ako si kristel 👋
-## nandito po ang sagot sa katotohanan
+ nandito po ang sagot sa katotohanan
 <!--
 **kristelkristelrsyoeykrite/kristelkristelrsyoeykrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Snake animation](https://github.com/kristelkristelrsyoeykrite/kristelkristelrsyoeykrite/blob/output/github-contribution-grid-snake.svg)
+<script src="https://gist.github.com/thomcc/1468906.js"></script>
