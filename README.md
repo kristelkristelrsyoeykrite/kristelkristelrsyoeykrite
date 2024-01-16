@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h2> ambag ko sa mundo</h2> </h2>
+  <h2> konti palang commits ko dito pero marami akong committed murder hehe tnx</h2> </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kristelkristelrsyoeykrite/kristelkristelrsyoeykrite/output/github-contribution-grid-snake.svg" />
   
