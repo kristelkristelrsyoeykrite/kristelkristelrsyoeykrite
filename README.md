@@ -1,4 +1,4 @@
-
+I am an AI-assisted programmer and I like to build data-driven applications, backend services, and systems that turn complex requirements into practical software solutions.
 <!--
 **kristelkristelrsyoeykrite/kristelkristelrsyoeykrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
